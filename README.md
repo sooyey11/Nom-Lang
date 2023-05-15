@@ -69,6 +69,7 @@ Noman Idiot Programming Language (노우맨 멍청이 프로그래밍 언어)
 ```
 우Hiㅋ => 콘솔에 Hi 출력
 우Hello, World!ㅋ 콘솔에 Hello, World! 출력
+우노노ㅋ => 콘솔에 노노 출력
 ```
 
 ### 우?
